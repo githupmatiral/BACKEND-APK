@@ -16,8 +16,7 @@ connectDB();
 
 // CORS Configuration
 const allowedOrigins = [
-  'https://fnamg11-production-5a3c.up.railway.app/',
-  'https://fnamg11-production-c154.up.railway.app/', // ✅ ضفنا الدومين الجديد
+  'https://dashboard-apk-production.up.railway.app',
   'http://localhost:3000',
   'http://localhost:5173'
 ];
